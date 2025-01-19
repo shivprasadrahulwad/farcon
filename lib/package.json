@@ -1,0 +1,21 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.0",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "lib": "file:",
+    "moment": "^2.30.1",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
